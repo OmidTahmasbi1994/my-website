@@ -1,38 +1,120 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
+.container
+{
+  width: 100%;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
+  background: whitesmoke;
+}
+.header
+{
+  width: 100%;
+  position: sticky;
+  top: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: black;
+  color: snow;
+}
+.navigation
+{
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-top: 0.5px solid whitesmoke;
 }
-
-.App-link {
-  color: #61dafb;
+.navigation a
+{
+  margin-left: 15px;
+  text-decoration: none;
+  color: snow;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.originContainer
+{
+  width: 100%;
+  margin-bottom: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgb(59, 59, 59);
+}
+.originMain
+{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.originMain div
+{
+  width: 93%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image
+{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+}
+.form
+{
+  width: 95%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.form input
+{
+  width: 250px;
+  height: 30px;
+  margin-top: 5px;
+  padding-left: 5px;
+  border: 2px solid gray;
+  border-radius: 5px;
+  background: rgb(255, 251, 251);
+}
+.form textarea
+{
+  width: 250px;
+  height: 150px;
+  margin-top: 5px;
+  padding-left: 5px;
+  border: 2px solid gray;
+  border-radius: 5px;
+  background: rgb(255, 251, 251);
+}
+.form button
+{
+  width: 50px;
+  height: 25px;
+  margin-top: 5px;
+  border: 2px solid gray;
+  border-radius: 5px;
+  background: rgb(255, 251, 251);
+  cursor: pointer;
+}
+.form button:active
+{
+  transform: scale(0.95);
+  background: green;
+}
+.footer
+{
+  width: 100%;
+  height: 23px;
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: snow;
 }
