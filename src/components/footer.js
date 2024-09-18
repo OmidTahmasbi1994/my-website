@@ -1,7 +1,9 @@
+import image from '../images/icon.jpg';
+
 export const Footer = ()=>{
     return(
         <footer className="footer">
-            <sub>© All Rights Reserved to omid tahmasebi 2024 </sub>
+            <sub>CopyRight © 2024 <img className='footerIcon' src={image}/> All Rights Reserved.</sub>
         </footer>
     )
 }
