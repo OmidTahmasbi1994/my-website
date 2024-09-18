@@ -5,9 +5,9 @@ export const Header = ()=>{
         <header className="header">
             <h1 className='headerTitle'>Omid Tahmasebi</h1>
             <nav className='navigation'>
-                <Link to={'/'}>Home</Link>
-                <Link to={'/about'}>About</Link>
-                <Link to={'/contact'}>Contact</Link>
+                <Link to={'/my-website/'}>Home</Link>
+                <Link to={'/my-website/about'}>About</Link>
+                <Link to={'/my-website/contact'}>Contact</Link>
             </nav>
         </header>
     )

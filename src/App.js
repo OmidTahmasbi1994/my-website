@@ -20,9 +20,9 @@ function App() {
         <Header />
 
         <Routes>
-          <Route path='/' element={<Home />}/>
-          <Route path='/about' element={<About />}/>
-          <Route path='/contact' element={<Contact />}/>
+          <Route path='/my-website/' element={<Home />}/>
+          <Route path='/my-website/about' element={<About />}/>
+          <Route path='/my-website/contact' element={<Contact />}/>
         </Routes>
 
         <Footer />
