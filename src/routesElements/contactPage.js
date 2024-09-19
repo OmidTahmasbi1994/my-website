@@ -19,7 +19,7 @@ export const Contact = ()=>{
                     </form>
                 </div>
                 <div>
-                    <h6><FontAwesomeIcon icon={faAt} /> tomid7373gmail.com</h6>
+                    <h6>tomid7373 <FontAwesomeIcon icon={faAt} /> gmail.com</h6>
                 </div>
             </main>
         </div>
