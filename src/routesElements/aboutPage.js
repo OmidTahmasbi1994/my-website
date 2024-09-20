@@ -10,25 +10,27 @@ export const About = ()=>{
             <main className="originMain">
             <img src={image} className='image'/>
                 <div>
-                    <p>
+                    <h5>
                         Omid Tahmasebi Boldaji<br/>
                         Born in March/1994 in Iran<br/>   
-                    </p>
+                    </h5>
                 </div>
 
                 <div>
                     <h4>Education</h4>
-                    <ul>
-                        <li>Computer Engineering: PNU-2025.</li>
-                        <li>Educational Sciences: Farhangian Uni-2016.</li>
-                    </ul>
+                    <h5>
+                        <ul>
+                            <li>BSc in Computer Engineering - PNU</li>
+                            <li>BSc in Educational Sciences - Farhangian University</li>
+                        </ul>
+                    </h5>
                 </div>
 
                 <div>
                     <h4>Skills</h4>
-                    <h6>React Js - Java Script - Bootstrap - CSS - HTML -<br/>
+                    <h5>React Js - Java Script - Bootstrap - CSS - HTML -<br/>
                         Python Programming - Git - Gihub
-                    </h6>
+                    </h5>
                 </div>
             </main>
         </div>

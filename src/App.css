@@ -40,7 +40,7 @@
 }
 .navigation a
 {
-  margin-left: 12px;
+  margin-left: 14px;
   text-decoration: none;
   color: snow;
   font-family: 'inter';
@@ -70,9 +70,9 @@
 }
 .image
 {
-  width: 100px;
-  height: 100px;
-  border-radius: 10px;
+  width: 85px;
+  height: 85px;
+  border-radius: 50px;
 }
 .form
 {
@@ -108,7 +108,7 @@
   margin-top: 5px;
   border: 2px solid gray;
   border-radius: 4px;
-  background: rgb(144, 241, 0);
+  background: paleturquoise;
   color: black;
   cursor: pointer;
 }
