@@ -14,7 +14,7 @@ export const Contact = ()=>{
                     <form method='post' action='https://getform.io/f/avreqgda'  className='form'>
                         <input type='text' name='name' className='nameInput' placeholder='Name' />
                         <input type='email' name='email' className='emailInput' placeholder='Email' />
-                        <textarea name='massage' className='massageInput' rows='10' placeholder='send me a Massage...'></textarea>
+                        <textarea name='massage' className='massageInput' rows='10' placeholder='Message ...'></textarea>
                         <button type='submit' className='buttonInput'>send</button>
                     </form>
                 </div>
