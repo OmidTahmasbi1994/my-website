@@ -1,4 +1,4 @@
-import image from '../images/photo.jpg'
+import image from '../images/photo.jpg';
 
 export const About = ()=>{
     return(

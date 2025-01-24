@@ -116,6 +116,18 @@
 {
   transform: scale(0.95);
 }
+.linkedin_link
+{
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: none;
+  color: rgb(0, 99, 198);
+}
+.linkedin_image
+{
+  width: 15px;
+  height: 15px;
+}
 .footer
 {
   width: 100%;
