@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.390ef7b4.css",
-    "main.js": "/my-website/static/js/main.a97711bd.js",
+    "main.css": "/my-website/static/css/main.630f4eec.css",
+    "main.js": "/my-website/static/js/main.cfed6ad9.js",
     "static/js/453.180a846e.chunk.js": "/my-website/static/js/453.180a846e.chunk.js",
+    "static/media/html.png": "/my-website/static/media/html.6671754ef93f2c7df40c.png",
+    "static/media/payamenoor.png": "/my-website/static/media/payamenoor.0656131eb52906b6c79c.png",
+    "static/media/googlescholar.png": "/my-website/static/media/googlescholar.3fad37948b89b41524dd.png",
+    "static/media/bootstrap.png": "/my-website/static/media/bootstrap.7f159d9b98122d8c19e2.png",
     "static/media/photo.jpg": "/my-website/static/media/photo.9ef5077394a70c7f3911.jpg",
+    "static/media/css.png": "/my-website/static/media/css.0c13c5cecd566fbab673.png",
+    "static/media/github.png": "/my-website/static/media/github.6265fe21a768c3a94728.png",
+    "static/media/farhangian.png": "/my-website/static/media/farhangian.0acd06adb8e88d9a95e6.png",
+    "static/media/Python.png": "/my-website/static/media/Python.7d90ae70be3c4758c59b.png",
     "index.html": "/my-website/index.html",
-    "main.390ef7b4.css.map": "/my-website/static/css/main.390ef7b4.css.map",
-    "main.a97711bd.js.map": "/my-website/static/js/main.a97711bd.js.map",
+    "main.630f4eec.css.map": "/my-website/static/css/main.630f4eec.css.map",
+    "main.cfed6ad9.js.map": "/my-website/static/js/main.cfed6ad9.js.map",
     "453.180a846e.chunk.js.map": "/my-website/static/js/453.180a846e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.390ef7b4.css",
-    "static/js/main.a97711bd.js"
+    "static/css/main.630f4eec.css",
+    "static/js/main.cfed6ad9.js"
   ]
 }
