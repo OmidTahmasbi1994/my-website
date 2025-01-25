@@ -68,11 +68,49 @@
   flex-direction: column;
   align-items: center;
 }
-.image
+.personalimage
 {
   width: 85px;
   height: 85px;
   border-radius: 50px;
+}
+.payamenoorimage
+{
+  width: 60px;
+  height: 60px;
+  border-radius: 3px;
+}
+.farhangianimage
+{
+  width: 70px;
+  height: 50px;
+  border-radius: 3px;
+}
+.skillsImagesDiv
+{
+  width: 93%;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+  justify-content:center !important;
+}
+.skillsImages
+{
+  width: 55px;
+  height: 50px;
+  margin: 3px;
+  border-radius: 3px;
+}
+.googleScholar_link
+{
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: none;
+  color: rgb(0, 99, 198);
+}
+.googleScholarIcon
+{
+  width: 15px;
+  height: 15px;
 }
 .form
 {
@@ -119,7 +157,7 @@
 .linkedin_link
 {
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   text-decoration: none;
   color: rgb(0, 99, 198);
 }
