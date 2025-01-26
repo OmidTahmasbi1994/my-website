@@ -23,7 +23,7 @@ export const Contact = ()=>{
                     <h6>tomid7373 <FontAwesomeIcon icon={faAt} /> gmail.com</h6>
                 </div>
                 <div>
-                    <a className='linkedin_link' href='https://www.linkedin.com/in/omid-tahmasebi-/' target='_blank' rel='noreferrer'><img src={linkedinIcon} className='linkedin_image' /> LinkedIn</a>
+                    <a className='linkedin_link' href='https://www.linkedin.com/in/omid-tahmasebi-/' target='_blank' rel='noreferrer'>Linked<img src={linkedinIcon} className='linkedin_image' /> </a>
                 </div>
             </main>
         </div>
