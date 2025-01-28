@@ -97,7 +97,7 @@
 {
   width: 55px;
   height: 50px;
-  margin: 2px;
+  margin: 1px;
   border-radius: 3px;
 }
 .googleScholar_link
@@ -157,14 +157,14 @@
 .linkedin_link
 {
   font-weight: bold;
-  font-size: 23px;
+  font-size: 21px;
   text-decoration: none;
   color: rgb(0, 99, 198);
 }
 .linkedin_image
 {
-  width: 19px;
-  height: 18px;
+  width: 20px;
+  height: 19px;
 }
 .footer
 {
