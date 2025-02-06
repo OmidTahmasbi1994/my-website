@@ -68,6 +68,10 @@
   flex-direction: column;
   align-items: center;
 }
+.originMain div p
+{
+  font-size: 14px;
+}
 .personalimage
 {
   width: 85px;
