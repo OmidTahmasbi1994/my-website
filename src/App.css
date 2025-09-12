@@ -149,8 +149,8 @@
   height: 25px;
   margin-top: 5px;
   border: 2px solid gray;
-  border-radius: 4px;
-  background: rgb(0, 255, 157);
+  border-radius: 5px;
+  background: rgb(79, 255, 188);
   color: black;
   cursor: pointer;
 }
